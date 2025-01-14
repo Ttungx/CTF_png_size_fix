@@ -17,7 +17,7 @@ cmd/终端中输入"python pngsizefix.py [filename]"
 ![image](images/download.png)
 <br>
 输入命令后回车<br>
-![image](images/com.png)
+![image](images/com.jpg)
 <br>
 即可得到flag<br>
 ![image](images/test_v2.png)
