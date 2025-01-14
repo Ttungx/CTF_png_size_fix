@@ -13,7 +13,7 @@ cmd/终端中输入"python pngsizefix.py [filename]"
 
 示例：<br>
 题目图片：来自BaseCTF2024 week2 《前辈什么的最喜欢了》
-<br>
+<br>此图片需下载后查看<br>
 ![image](images/download.png)
 <br>
 输入命令后回车<br>
