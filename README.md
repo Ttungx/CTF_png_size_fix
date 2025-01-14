@@ -12,13 +12,12 @@
 cmd/终端中输入"python pngsizefix.py [filename]"
 
 示例：<br>
-题目图片：<br> 来自BaseCTF2024 week2 《前辈什么的最喜欢了》
+题目图片：来自BaseCTF2024 week2 《前辈什么的最喜欢了》
 <br>
-![download](https://github.com/user-attachments/assets/a932e5ee-01f2-4661-bde9-72de3937b948)
-
+![image](images/download.png)
 <br>
 输入命令后回车<br>
-![image](https://github.com/user-attachments/assets/615e03a8-28e3-4855-8fdf-0182c9ff7a27)
+![image](images/com.png)
 <br>
 即可得到flag<br>
-![test_v2](https://github.com/user-attachments/assets/b4f3bd47-166b-4c53-9438-bbac7009a18b)
+![image](images/test_v2.png)
